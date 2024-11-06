@@ -3,3 +3,6 @@
 ```javascript
 var myNum = 2;
 ```
+- [ ] Married
+- [x] Single
+- [ ] Divorced
